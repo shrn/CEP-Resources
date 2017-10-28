@@ -1,15 +1,7 @@
 Getting Started with the Creative Cloud Extension SDK
 ==============
 
-This page provides resources you need to get started creating extensions for Adobe Creative Cloud applications, using the new HTML5/JavaScript interface model. The Flash/ActionScript interface model for extensions is deprecated in the Creative Cloud release; support has already been removed from CC2014 and later releases.
-
-* Creative Cloud 2018 products include CEP 8 for developing extensions and add-ons. 
-
-* Refer to https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_8.x/Documentation/CEP%208.0%20HTML%20Extension%20Cookbook.md#applications-integrated-with-cep for 2017 product integration with CEP 8.
-
-* In the Creative Cloud 2015.x release in June 2016, Photoshop and Illustrator use CEP 7 while other applications still use CEP 6.1. Extensions and add-ins must be built on at least CEP 6 infrastructure.
-
-* In the Creative Cloud 2015 release extensions and add-ins must be built on the CEP 6 infrastructure.
+This page provides resources you need to get started creating extensions for Adobe Creative Cloud applications, using the new HTML5/JavaScript interface model.
 
 * In the Creative Cloud 2014 release, extensions and add-ins must be built on the CEP 5 infrastructure and loaded with Extension Manager. The current releases either do not now or soon will not support CEP 4 and Flash/ActionScript extensions.
 
